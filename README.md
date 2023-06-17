@@ -1,2 +1,2 @@
-# nba-analytics
-Demo NBA Analytics pipeline
+# mls-analytics
+Demo MLS Analytics pipeline
